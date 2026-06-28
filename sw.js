@@ -1,6 +1,6 @@
 /* Service worker — Calculadora de Squish (Warure)
    Cachea la app para que funcione sin internet (offline-first). */
-const CACHE = 'warure-squish-v1';
+const CACHE = 'warure-squish-v2';
 const ASSETS = [
   './',
   './index.html',

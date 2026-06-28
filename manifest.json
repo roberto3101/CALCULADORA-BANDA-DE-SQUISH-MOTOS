@@ -1,6 +1,6 @@
 {
-  "name": "Calculadora de Squish — Warure",
-  "short_name": "Squish Warure",
+  "name": "Calculadora de Banda de Squish — Warure",
+  "short_name": "Banda Squish",
   "description": "Calculadora de banda de squish para motores 2 tiempos: del diámetro exterior al diámetro interior por porcentaje de área.",
   "lang": "es",
   "start_url": "./index.html",
